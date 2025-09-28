@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "253335156713",
+    "project_id": "vibezone-24a56",
+    "storage_bucket": "vibezone-24a56.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:253335156713:android:63794ae6ee9752f28cbd78",
+        "android_client_info": {
+          "package_name": "com.example.moodbasedmusicapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDAyQ6onFx9EFW5aXwT1S-IjUWAOeva4hE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -16,8 +16,6 @@ local.properties
 *.jks
 *.keystore
 
-# Google services / API keys
-google-services.json
 
 # Logs
 *.log

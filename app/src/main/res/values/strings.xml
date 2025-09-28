@@ -1,0 +1,35 @@
+<resources>
+    <string name="app_name">Vibe Zone</string>
+    <string name="textsplash1">welcome to VibeZone !</string>
+    <string name="textsplash2">Listen to your emotions and feel the vibe</string>
+
+
+<!--    Mood drop down-->
+    <string-array name="moods">
+        <item>Happy</item>
+        <item>Sad</item>
+        <item>Angry</item>
+        <item>Relaxed</item>
+        <item>Surprised</item>
+    </string-array>
+
+<!--    Login screen-->
+    <string name="name">Enter Username</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="forgetText">Forget Password?</string>
+    <string name="loginbtn">Log in</string>
+    <string name="signuptxt">Don\'t have an account? Sign up</string>
+    <string name="app_icon">app icon</string>
+
+<!--    Sign up Screen-->
+    <string name="signupbtn">Sign up</string>
+    <string name="logintxt">Already have an account? Log in</string>
+    <string name="emailhnt">Email</string>
+    <string name="namehnt">Name</string>
+
+
+    <string name="moodbtn">Detect mood</string>
+    <string name="moodimg">User Picture</string>
+    <string name="moodtxt">Detected mood will be appear here.</string>
+</resources>

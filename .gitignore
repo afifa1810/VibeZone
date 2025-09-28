@@ -1,0 +1,42 @@
+# Gradle
+.gradle/
+build/
+**/build/
+out/
+kapt/
+
+# Local configuration
+local.properties
+
+# Android Studio / IntelliJ
+*.iml
+.idea/
+
+# Keystore files (private)
+*.jks
+*.keystore
+
+# Google services / API keys
+google-services.json
+
+# Logs
+*.log
+
+# APK / Bundles / Generated files
+*.apk
+*.ap_
+*.aab
+*.dex
+*.class
+
+# Native / NDK
+.cxx/
+obj/
+.externalNativeBuild/
+
+# Crashlytics
+crashlytics-build.properties
+
+# OS-specific
+.DS_Store
+Thumbs.db
